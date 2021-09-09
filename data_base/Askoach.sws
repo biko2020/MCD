@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{FEF5915C-AF50-4CAA-96BB-8B8A686A51F5}" Name="Askoach_MCD" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Askoach_MCD.mcd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
